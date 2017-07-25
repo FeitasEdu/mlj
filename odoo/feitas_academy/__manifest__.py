@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "feitasacademy",
+    'name': "Feitas Academy",
 
     'summary': """
         Feitas Odoo Dev """,
